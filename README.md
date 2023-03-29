@@ -1,4 +1,4 @@
-<!-- QUESTION 2 -->
+QUESTION 2
 
 FEATURES OF REACT.
 1.	Declarative programming: React lets programmers specify the intended outcome of an action and handles the essentials details of how that outcome is accomplished. Code is now simpler to study and comprehend as a result.
@@ -12,7 +12,7 @@ FEATURES OF REACT.
 5.	JSX: JSX is a grammar modification that enables programmers to create JavaScript code that resembles HTML. As fewer language changes are required, this makes it simpler to create and manage code.
 
 
-<!-- QUESTION 3 -->
+QUESTION 3
 ADVANTAGES OF REACT.
 1.	Cross-platform compatibility: React can be used to create user experiences for desktop, mobile, and online apps. This shortens the development process and lowers expenses by enabling developers to build apps that can operate on various platforms with a singular codebase.
 
@@ -25,11 +25,11 @@ ADVANTAGES OF REACT.
 5.	Simple to learn: React's syntax is comparatively straightforward particularly for developers who are already acquainted with JavaScript. It is simple to divide complicated apps into manageable components thanks to its component-based, flexible design.
 
 
-<!-- QUESTION 4 -->
+QUESTION 4
 •	React was created by Jordan Walke, a software engineer at Facebook.
 •	React is owned by Meta (formerly Facebook) and a community of individual developers and companies.
 
-<!-- QUESTION 5 -->
+QUESTION 5
 DIFFERENCE BETWEEN HTML AND JSX.
 1.	HTML and JSX have unique syntaxes. When defining components and properties, HTML uses angle brackets, whereas JSX uses a syntax that resembles HTML but is actually a JavaScript extension. Angle brackets are used to describe HTML-like components in JSX, but curly braces are used to show that they are JavaScript expressions.
 2.	Attributes: There are differences between how elements are defined in HTML and JSX. A word combination is used in HTML to specify attributes. For example: <img src="image.jpg">. Similar syntax is used in JSX to specify attributes, but curly brackets are used to denote that the value is a JavaScript expression, as in the example below:< img src={imageUrl}>.
@@ -37,6 +37,6 @@ DIFFERENCE BETWEEN HTML AND JSX.
 3.	Elements: There are some variations between how components are defined in HTML and JSX. A number of predefined tags, including <div>, <span>, and <img>, are used in HTML to define elements. By using elements, a class of JavaScript functions, writers using JSX can create their own unique features. It is simpler to create complicated UIs using these components because they can be combined and reused throughout various program components.
 
 
-<!-- QUESTION 6 -->
+QUESTION 6
 •	Because JSX is not valid JavaScript, browsers can't read it directly; they do not know what to do with it, it lacks the fundamental mechanism to read and comprehend it. To convert your JSX into pure JavaScript and HTML that browsers can comprehend, you would have to use Babel.
 
